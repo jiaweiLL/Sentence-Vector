@@ -1,7 +1,7 @@
 * # 欢迎改进指导
 * name:caojiawei
 * email:studyss@qq.com
-* tools:微信开发者工具
+
 # Sentence-Vector
 三种句向量的表示方法：1. Word2vec  2. IF-IDF  3.doc2vec
 
